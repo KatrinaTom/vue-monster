@@ -1,8 +1,10 @@
 # Attack a Monster Game
 
-This is a tutorial based from Maximilian Schwarzmüller. Udemy Course Link in the resource section. 
+This is a tutorial based from Maximilian Schwarzmüller. Vue Udemy Course Link in the resource section. 
 
-A simple game that the player can attack a monster. Aim of this project is to practice Vue concepts.
+A simple game that the player can attack a monster. 
+
+Aim of this project is to practice Vue concepts.
 
 ___
 
